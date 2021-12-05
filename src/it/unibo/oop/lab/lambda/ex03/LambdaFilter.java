@@ -6,7 +6,6 @@ import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.LayoutManager;
 import java.awt.Toolkit;
-import java.io.PrintStream;
 import java.util.Arrays;
 import java.util.function.Function;
 import java.util.stream.Collectors;
